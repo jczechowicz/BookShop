@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./normalize.css">
+    <link rel="stylesheet" href="./style.css">
+    <title>Book Shop</title>
+  </head>
+  
+  <body>
+    <div class="order">
+      <form class="order__form" novalidate>
+        <h1 class="order__title">Order form</h1>
+        <fieldset>
+          <legend>Private information</legend>
+          <div class="order__field">
+            <label for="name">Name:*</label>
+            <input type="text" name="name" id="name" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+          
+          <div class="order__field">
+            <label for="surname">Surname:*</label>
+            <input type="text" name="surname" id="surname" class="order__surname" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+          
+          <div class="order__field">
+            <label for="date">Delivery date:*</label>
+            <input type="date" name="date" id="date" class="order__date" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+          
+          <div class="order__field">
+            <label for="street">Street:*</label>
+            <input type="text" name="street" id="street" class="orser__street" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+          
+          <div class="order__field">
+            <label for="house">House:*</label>
+            <input type="text" name="house" id="house" class="orser__house" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+          
+          <div class="order__field">
+            <label for="flat">Flat:*</label>
+            <input type="text" name="flat" id="flat" class="orser__flat" required>
+            <span class="error" aria-live="polite"></span>
+          </div>
+        </fieldset>
+        
+        <fieldset class="order__radio">
+          <legend>Payment type*</legend>
+          <div class="order__field radio-field-wrapper">
+            <label for="cash">Cash</label>
+            <input type="radio" name="paymenttype" id="cash" class="order__payment-type" value="cash" required>
+          </div>
+          
+          <div class="order__field radio-field-wrapper">
+            <label for="card">Card</label>
+            <input type="radio" name="paymenttype" id="card" class="order__payment-type" value="card" required>
+          </div>
+          <span class="error" aria-live="polite"></span>
+        </fieldset>
+        
+        <fieldset class="checkbox-field-wrapper">
+          <legend>Gift (only 2 gifts per order available)</legend>
+          <input type="checkbox" id="pack" name="present" value="Pack as a gift"> 
+          <label for="pack">Pack as a gift</label>
+          <input type="checkbox" id="postcard" name="present" value="Add postcard">
+          <label for="postcard">Add postcard</label>
+          <input type="checkbox" id="discount" name="present" value="Provide 2% discount to the next time">
+          <label for="discount">Provide 2% discount to the next time</label>
+          <input type="checkbox" id="brandedpresent" name="present" value="Branded pen or pencil">
+          <label for="brandedpresent">Branded pen or pencil</label>          
+          <span class="error" aria-live="polite"></span>
+        </fieldset>
+        
+        <button type="submit" class="order__complete disabled">Complete</button>
+        <span class="error" aria-live="polite"></span>
+      </form>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
