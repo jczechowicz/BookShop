@@ -580,5 +580,5 @@ class BookStore {
 
 
 
-let bookStore = new BookStore("./assets/JSON/books.json");
+let bookStore = new BookStore("./assets/books.json");
 bookStore.init();
