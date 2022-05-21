@@ -1,0 +1,71 @@
+[{
+  "author": "Stanisław Lem",
+  "imageLink": "./assets/images/book_1.jpg",
+  "title": "Solaris",
+  "price": 30,
+  "description": "A classic work of science fiction by renowned Polish novelist and satirist Stanislaw Lem. When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds a painful, hitherto unconscious memory embodied in the living physical likeness of a long-dead lover. Others examining the planet, Kelvin learns, are plagued with their own repressed and newly corporeal memories. The Solaris ocean may be a massive brain that creates these incarnate memories, though its purpose in doing so is unknown, forcing the scientists to shift the focus of their quest and wonder if they can truly understand the universe without first understanding what lies within their hearts."
+},
+  {
+    "author": "Philip K. Dick",
+    "imageLink": "./assets/images/book_2.jpg",
+    "title": "A Scanner Darkly",
+    "price": 25,
+    "description": "Substance D is not known as Death for nothing. It is the most toxic drug ever to find its way on to the streets of LA. It destroys the links between the brain's two hemispheres, causing, first, disorientation and then complete and irreversible brain damage. The undercover narcotics agent who calls himself Bob Arctor is desperate to discover the ultimate source of supply. But to find any kind of lead he has to pose as a user and, inevitably, without realising what is happening, Arctor is soon as addicted as the junkies he works among..."
+  },
+  {
+    "author": "Frank Herbert",
+    "imageLink": "./assets/images/book_3.jpg",
+    "title": "Dune",
+    "price": 40,
+    "description": "Set on the desert planet Arrakis, Dune is the story of the boy Paul Atreides, heir to a noble family tasked with ruling an inhospitable world where the only thing of value is the “spice” melange, a drug capable of extending life and enhancing consciousness. Coveted across the known universe, melange is a prize worth killing for... When House Atreides is betrayed, the destruction of Paul’s family will set the boy on a journey toward a destiny greater than he could ever have imagined. And as he evolves into the mysterious man known as Muad’Dib, he will bring to fruition humankind’s most ancient and unattainable dream."
+  },
+  {
+    "author": "Isaac Asimov",
+    "imageLink": "./assets/images/book_4.jpg",
+    "title": "Foundation",
+    "price": 50,
+    "description": "For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Seldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation. But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind's last best hope is faced with an agonizing choice: submit to the barbarians and be overrun -- or fight them and be destroyed. "
+  },
+  {
+    "author": "Stanisław Lem",
+    "imageLink": "./assets/images/book_5.jpg",
+    "title": "The Futurological Congress: From the Memoirs of Ijon Tichy",
+    "price": 30,
+    "description": "The Futurological Congress is the fourth satirical science fiction novel in the Memoirs of Ijon Tichy series from Kafka Prize–winning author Stanislaw Lem. Bringing his twin gifts of scientific speculation and scathing satire to bear on that hapless planet, Earth, Lem sends his unlucky cosmonaut, Ijon Tichy, to the Eighth Futurological Congress. Caught up in local revolution, Tichy is shot and so critically wounded that he is flashfrozen to await a future cure??—??a future whose strangeness exceeds anything the congress conjectured."
+  },
+  {
+    "author": "Franz Kafka",
+    "imageLink": "./assets/images/book_6.jpg",
+    "title": "The Trial",
+    "price": 20,
+    "description": "Written in 1914 but not published until 1925, a year after Kafka’s death, The Trial is the terrifying tale of Josef K., a respectable bank officer who is suddenly and inexplicably arrested and must defend himself against a charge about which he can get no information. Whether read as an existential tale, a parable, or a prophecy of the excesses of modern bureaucracy wedded to the madness of totalitarianism, The Trial has resonated with chilling truth for generations of readers."
+  },
+  {
+    "author": "Kurt Vonnegut Jr.",
+    "imageLink": "./assets/images/book_7.png",
+    "title": "Cat's Cradle",
+    "price": 45,
+    "description": "Told with deadpan humour and bitter irony, Kurt Vonnegut's cult tale of global destruction preys on our deepest fears of witnessing Armageddon and, worse still, surviving it ... Dr Felix Hoenikker, one of the founding 'fathers' of the atomic bomb, has left a deadly legacy to the world. For he's the inventor of 'ice-nine', a lethal chemical capable of freezing the entire planet. The search for its whereabouts leads to Hoenikker's three ecentric children, to a crazed dictator in the Caribbean, to madness. Felix Hoenikker's Death Wish comes true when his last, fatal gift to humankind brings about the end, that for all of us, is nigh..."
+  },
+  {
+    "author": "Philip K. Dick",
+    "imageLink": "./assets/images/book_8.png",
+    "title": "Ubik",
+    "price": 25,
+    "description": "Glen Runciter is dead. Or is everyone else? What is certain is that someone has died in an explosion organised by Runciter's competitors. In fact, his employees attend a funeral. But during the mourning, they begin to receive discouraging, even morbid, messages from their boss. And the world around them begins to crumble in a way that suggests they don't have much time left either. This biting metaphysical comedy of death and salvation (which can be conveniently packaged) is a tour de force of paranoid menace and absurdist comedy, in which the dead offer business advice, buy their next reincarnation, and run the continual risk of dying again."
+  },
+  {
+    "author": "David Foster Wallace",
+    "imageLink": "./assets/images/book_9.jpg",
+    "title": "Infinite Jest ",
+    "price": 55,
+    "description": "A gargantuan, mind-altering tragi-comedy about the Pursuit of Happiness in America.Set in an addicts' halfway house and a tennis academy, and featuring the most endearingly screwed-up family to come along in recent fiction, Infinite Jest explores essential questions about what entertainment is and why it has come to so dominate our lives; about how our desire for entertainment affects our need to connect with other people; and about what the pleasures we choose say about who we are. Equal parts philosophical quest and screwball comedy, Infinite Jest bends every rule of fiction without sacrificing for a moment its own entertainment value. It is an exuberant, uniquely American exploration of the passions that make us human—and one of those rare books that renew the idea of what a novel can do."
+  },
+  {
+    "author": "George Orwell",
+    "imageLink": "./assets/images/book_10.jpg",
+    "title": "1984",
+    "price": 55,
+    "description": "Among the seminal texts of the 20th century, Nineteen Eighty-Four is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life—the ubiquity of television, the distortion of the language—and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written."
+  }
+]
