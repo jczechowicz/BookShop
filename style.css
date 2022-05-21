@@ -35,9 +35,7 @@ main {
 }
 
 
-
-
-/* ================ BOOKS ============ */
+/* Books */
 .books__list, .bag__list {
   margin: 0;
   padding: 0;
@@ -104,9 +102,7 @@ main {
 }
 
 
-
-
-/* ================ BAG ============ */
+/* Bag */
 .bag__list {
   margin: 0;
   padding: 0;
@@ -142,8 +138,7 @@ main {
 }
 
 
-
-/* ================ MODAL ============ */
+/* Modal */
 .modal__wrapper {
   display: grid;
   grid-template-columns: 1fr;
@@ -229,10 +224,7 @@ main {
 }
 
 
-
-
-
-/* ================ ORDER ============ */
+/* Order */
 legend {
   font-size: 25px;
   font-weight: bold;
@@ -393,8 +385,7 @@ input:focus.invalid {
 }
 
 
-
-/* ================ THANKS ============ */
+/* Saying Thanks */
 .thanks { 
   display: flex;
   flex-direction: column;
@@ -424,11 +415,7 @@ input:focus.invalid {
   font-weight: 700;
 }
 
-
-
-
-
-/* ================ BOOK-IN-BAG ============ */
+/* Books inside bag */
 .books__add-to-bag {
   position: relative;
 }
@@ -438,7 +425,7 @@ input:focus.invalid {
   top: -29px;
   left: 11px;
   font-size: 14px;
-  background: #00AAA4;
+  background: #fcfc00;
   padding-left: 5px;
   padding-right: 5px;
   border-radius: 5px;
