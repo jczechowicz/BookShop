@@ -185,7 +185,7 @@ class BookStore {
   
       let modalBookPrice = document.createElement("p");
       modalBookPrice.classList.add("modal__price");
-      modalBookPrice.innerText = `${price} €`;
+      modalBookPrice.innerText = `${price} $`;
       modalTextWrapper.append(modalBookPrice);
   
       modal.append(modalBookImage);
@@ -276,7 +276,7 @@ class BookStore {
     if (this.bag.length > 0) {
       let totalPriceElement = document.createElement("p");
       totalPriceElement.classList.add("bag__total");
-      totalPriceElement.innerText = `Total price: ${this.calculateTotal()} €`;
+      totalPriceElement.innerText = `Total price: ${this.calculateTotal()} $`;
       
       bagElement.append(fragment);
       bagElement.append(totalPriceElement);
