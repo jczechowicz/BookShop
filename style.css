@@ -86,14 +86,15 @@ main {
 }
 
 .books__title, .bag__title {
-  font-size: 18px;
+  font-size: 20px;
   font-family: monospace;
   font-weight: 500;
-  min-height: 45px;
+  min-height: 40px;
   text-align: center;
 }
 
 .books__author, .bag__author {
+  font-size: 16px;
   min-height: 36.78px;
   text-transform: uppercase;
 }
@@ -188,7 +189,7 @@ main {
   grid-gap: 20px;
   position: relative;
   width: 50vw;
-  height: 40vh;
+  height: auto;
   background: #A7B8BF;
   z-index: 9999;
   padding: 20px;
