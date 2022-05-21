@@ -87,12 +87,15 @@ main {
 
 .books__title, .bag__title {
   font-size: 18px;
+  font-family: monospace;
   font-weight: 500;
   min-height: 62.08px;
+  text-align: center;
 }
 
 .books__author, .bag__author {
   min-height: 36.78px;
+  text-transform: uppercase;
 }
 
 .books__show-more, .bag__show-more {
@@ -231,6 +234,7 @@ main {
 /* ================ ORDER ============ */
 legend {
   font-size: 25px;
+  font-weight: bold;
   padding-right: 5px;
   padding-left: 5px;
   color: #A7B8BF;
@@ -244,7 +248,6 @@ legend {
 }
 
 .order__form{
-  box-shadow: 4px 8px 12px hsl(180, 1, 27);
   height: 90vh;
 }
 
@@ -255,6 +258,7 @@ legend {
 .order__title {
   text-align: center;
   color: #A7B8BF;
+  font-weight: bold;
 }
 
 .order__field {
