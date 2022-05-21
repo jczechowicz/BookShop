@@ -24,7 +24,7 @@ button {
 
 button:hover {
   border: none;
-  background: #BDE6F1;
+  background: #454747;
   color: #fff;
 }
 
@@ -32,7 +32,6 @@ main {
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-gap: 20px;
-  box-shadow: 4px 8px 12px hsl(228, 66%, 45%, 0.45);
 }
 
 
@@ -58,8 +57,8 @@ main {
   box-shadow: 5px 5px 15px rgb(170, 170, 170);
   transform: translateY(-1.2rem);
   transition: 0.3s ease;
-  color: #FDAF75;
-  background-color: #FFFCDC;
+  color: #FDAF75; #454747
+  background-color: #A7B8BF;
 
 }
 
@@ -187,7 +186,7 @@ main {
   position: relative;
   width: 50vw;
   height: 40vh;
-  background: #FFFCDC;
+  background: #A7B8BF;
   z-index: 9999;
   padding: 20px;
   border-radius: 8px;
