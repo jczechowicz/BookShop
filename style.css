@@ -15,7 +15,7 @@ button {
   align-content: center;
   justify-content: center;
   border-radius: 32px;
-  border: 2px solid #9ADCFF;
+  border: 2px solid #A7B8BF;
   cursor: pointer;
   background: #fff;
   transition: all .1s linear;
@@ -57,7 +57,7 @@ main {
   box-shadow: 5px 5px 15px rgb(170, 170, 170);
   transform: translateY(-1.2rem);
   transition: 0.3s ease;
-  color: #FDAF75; #454747
+  color: #454747;
   background-color: #A7B8BF;
 
 }
@@ -216,12 +216,12 @@ main {
   right: 1rem;
   transition: all .3s linear;
   cursor: pointer;
-  background-color: #D6E5FA !important;
+  background-color: #454747 !important;
 }
 
 .modal__close:hover, .bag__remove:hover {
   background-image: url("./assets/close-btn-hover.svg");
-  background-color: #84DFFF !important;
+  background-color: #454747 !important;
 }
 
 
@@ -233,7 +233,7 @@ legend {
   font-size: 25px;
   padding-right: 5px;
   padding-left: 5px;
-  color: #FF8D29;
+  color: #A7B8BF;
 }
 
 .order {
@@ -244,7 +244,7 @@ legend {
 }
 
 .order__form{
-  box-shadow: 4px 8px 12px hsl(228deg 66% 55% / 35%);
+  box-shadow: 4px 8px 12px hsl(180, 1, 27);
   height: 90vh;
 }
 
@@ -254,7 +254,7 @@ legend {
 
 .order__title {
   text-align: center;
-  color: #E8630A;
+  color: #A7B8BF;
 }
 
 .order__field {
@@ -263,7 +263,7 @@ legend {
   display: grid;
   grid-template-columns: 130px 1fr;
   align-items: center;
-  color: #FF8D29;
+  color: #A7B8BF;
 }
 
 .order__radio {
@@ -283,7 +283,7 @@ legend {
   grid-template-columns: 40px 1fr;
   grid-row-gap: 10px;
   align-items: center;
-  color: #FF8D29;
+  color: #A7B8BF;
 }
 
 .order__field > input[type="date"] {
@@ -299,7 +299,7 @@ fieldset {
   margin: 10px;
   margin-bottom: 15px;
   border-radius: 10px;
-  border-color: #FF8D29;
+  border-color: #A7B8BF;
 }
 
 input {
@@ -367,7 +367,7 @@ input:focus.invalid {
 
 .order__radio {
   position: relative;
-  border: 1px solid #FF8D29;
+  border: 1px solid #454747;
 }
 
 .order__radio.invalid {
