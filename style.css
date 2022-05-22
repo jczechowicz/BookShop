@@ -41,7 +41,6 @@ main {
   padding: 0;
   list-style: none;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   grid-gap: 20px;
 }
 
@@ -110,6 +109,7 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   grid-gap: 50px;
+  border: 1px dashed black;
 }
 
 .bag__item {
